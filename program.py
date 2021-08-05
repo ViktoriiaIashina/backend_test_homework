@@ -1,1 +1,4 @@
-print('Я домашка'
+print('Я домашка')
+git add
+git commit
+
